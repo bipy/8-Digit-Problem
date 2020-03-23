@@ -24,7 +24,7 @@
 
 
 
-详细讨论请见[启发式搜索：A*算法与八数码问题探究](https://zhengrh.com/blog/8digit/)
+详细讨论请见[启发式搜索：A*算法与八数码问题探究](https://blog.zhengrh.com/post/8digit/)
 
 # 实验记录
 
