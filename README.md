@@ -2,8 +2,8 @@
 
 在一个**3×3**的棋盘中，存在**1~8**和**空白**共**9种**格子。给定一种状态，**只允许移动空白格**，应该通过何种路径达到目标状态呢？
 
-![](https://github.com/bipy/8-Digit-Problem/blob/master/source/1.png)
-![](https://github.com/bipy/8-Digit-Problem/blob/master/source/2.png)
+![](https://cdn.jsdelivr.net/gh/bipy/CDN/repo/8-Digit-Problem/source/1.png)
+![](https://cdn.jsdelivr.net/gh/bipy/CDN/repo/8-Digit-Problem/source/2.png)
 
 # 解决思路
 
